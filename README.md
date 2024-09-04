@@ -23,7 +23,6 @@ Para ejecutar este proyecto, necesitas tener instalado Python 3.x y las siguient
 
 Puedes instalar las dependencias ejecutando el siguiente comando:
 
-```bash
 pip install -r requirements.txt 
 
 
