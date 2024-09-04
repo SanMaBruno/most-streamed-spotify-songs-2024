@@ -49,7 +49,7 @@ most-streamed-spotify-songs-2024/
 └── .gitignore                     # Archivos a ignorar en Git
 
 
-Uso
+## Uso
 Sigue estos pasos para ejecutar el proyecto:
 
 Clona el repositorio:
@@ -63,17 +63,17 @@ pip install -r requirements.txt
 
 Ejecuta los scripts de análisis:
 
-Limpieza de datos:
+## Limpieza de datos:
 
 python src/data_cleaning.py
 
-Visualización de datos:
+## Visualización de datos:
 
 python src/data_visualization.py
 
-Abre el notebook de Jupyter para análisis exploratorio de datos:
+## Abre el notebook de Jupyter para análisis exploratorio de datos:
 
-jupyter notebook notebooks/data_analysisExplora los notebooks:
+# jupyter notebook notebooks/data_analysisExplora los notebooks:
 
 Abre y explora notebooks/data_analysis.ipynb para ver el análisis exploratorio de datos y el modelado predictivo.
 Resultados Clave
@@ -83,7 +83,8 @@ Modelo Predictivo: El modelo de regresión lineal alcanzó un error cuadrático 
 Contribuciones
 Las contribuciones son bienvenidas. Para contribuir:
 
-Haz un fork del proyecto.
+## Haz un fork del proyecto.
+
 Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
 Haz commit de tus cambios (git commit -m 'Agregar nueva funcionalidad').
 Haz push a la rama (git push origin feature/nueva-funcionalidad).
@@ -91,6 +92,7 @@ Abre un Pull Request.
 Licencia
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
-Contacto
+## Contacto
+
 Si tienes preguntas o comentarios, por favor contacta a SanMaBruno.
 
